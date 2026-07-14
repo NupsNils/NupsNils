@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Discord: @nupsnils
+# Discord: @nupsnils
 
 <!--
 **NupsNils/NupsNils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
